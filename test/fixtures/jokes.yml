@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  joke: MyString
+  punch: MyString
+  dad: one
+
+two:
+  joke: MyString
+  punch: MyString
+  dad: two
